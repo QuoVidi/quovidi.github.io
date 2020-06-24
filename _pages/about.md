@@ -24,7 +24,7 @@ Louise Mignard is a bioengineer, PhD student and teaching assistant at the Facul
 Jean-François Rees is an animal physiologist, professor at UCLouvain. He works on fish ecotoxicology at the Louvain Institute of Biomolecular Science and Technology (LIBST). One main aspect of his work deals with the question of the impact of pollutants on deep-sea fish, such as rattails, which cannot be kept alive at the surface, thus forbidding any experimental exposure of the fish to pollutants. For this reason, he develops in vitro systems for investigating the impact of high hydrostatic pressure on deep-sea fish liver cells responses to xenobiotics.
 
 
-## The story behing QuoVidi
+## The story behind QuoVidi
 
 > This is part of a blog post initially posted on [Botany One](https://www.botany.one/2019/11/QuoVidi-a-treasure-hunt-to-teach-biology/)
 
