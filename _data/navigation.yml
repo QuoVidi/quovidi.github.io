@@ -1,0 +1,34 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "How to use"
+    url: /use/
+  - title: "About"
+    url: /about/
+  - title: "Download"
+    url: https://github.com/QuoVidi/quovidi_public
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: How to install
+    children:
+      - title: "For the game manager"
+        url: /docs/use_manager/ 
+  - title: How to use
+    children:
+      - title: "For the game manager"
+        url: /docs/use_manager/
+      - title: "For the masters"
+        url: /docs/use_masters/  
+      - title: "For the players"
+        url: /docs/use_players/
+  - title: Re-use it
+    children:
+      - title: "License"
+        url: /docs/license/       
