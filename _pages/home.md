@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/img/quovidi_banner.png
   actions:
-    - label: "<i class='fas fa-eye'></i> View 2019 example"
+    - label: "<i class='fas fa-eye'></i> View 2020 example from UCLouvain"
       url: "https://plantmodelling.shinyapps.io/quovidi_2020/"
 excerpt: >
   QuoVidi is an interface to manage large (and small) scale treasure hunt. It was intially designed to organise a biological treasure hunt, but can be adapted to any situations.
