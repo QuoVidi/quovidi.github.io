@@ -32,5 +32,11 @@ In February 2019,  we started the teaching season with a big challenge: teach an
 
 The classical way would be to prepare a deck of slides, detailing the different morphological features of plants and animals, and go through them in a plenary lecture. This is a solution that can be easily upscaled to any number of students. We have been through that as students ourselves. There is no better way to suck the motivation out of a student than reading ten slides describing different leaf arrangements. There had to be a better way. This is why we decided to create QuoVidi.
 
-QuoVidi (as in PokemonGO) is a large scale biological treasure hunt we created for our students. The principle is simple. In the first version of the game, we compiled a list of more than 250 “quests” to be found in Louvain-la-Neuve. These quests were all linked to biological structures and organisms, both botanical and zoological.
+QuoVidi (previously known as BioGO) is a large scale biological treasure hunt we created for our students. The principle is simple. In the first version of the game, we compiled a list of more than 250 “quests” to be found in Louvain-la-Neuve. These quests were all linked to biological structures and organisms, both botanical and zoological.
+
+
+
+## Accolades
+
+QuoVidi was a laureate for the "Prix Wernaers pour la vulgarisation scientifique" in 2020
 
