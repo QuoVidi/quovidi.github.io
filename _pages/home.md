@@ -8,7 +8,7 @@ header:
     - label: "<i class='fas fa-eye'></i> View 2020 example from UCLouvain"
       url: "https://plantmodelling.shinyapps.io/quovidi_2020/"
 excerpt: >
-  QuoVidi is an interface to manage large (and small) scale treasure hunt. It was intially designed to organise a biological treasure hunt, but can be adapted to any situations.
+  QuoVidi (previously known as BioGO) is an interface to manage large (and small) scale treasure hunt. It was intially designed to organise a biological treasure hunt, but can be adapted to any situations.
 
 feature_row:
   - image_path: /assets/img/quovidi_1.png
