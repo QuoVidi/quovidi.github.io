@@ -12,4 +12,4 @@ The game master will have access to the administration interface when logging in
 
 The admin interface also allows the game masters to visualize the evolution of the game such as the number of connections to the interface or the number of submitted  bounties. It also allows them to change the games parameters, directly within the interface. 
 
-You can try the game as a **game master** by using the [test interface here](https://plantmodelling.shinyapps.io/QuoVidi_test/). You need to use `chen` as a username and `test` for the password. 
+You can try the game as a **game master** by using the [test interface here](https://plantmodelling.shinyapps.io/biogo_test/). You need to use `chen` as a username and `test` for the password. 
